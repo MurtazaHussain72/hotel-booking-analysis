@@ -58,7 +58,7 @@ This project presents a comprehensive analysis of hotel booking data across City
 | No Deposit       | 26.7%            |
 | Refundable       | 24.3%            |
 
-🔎 **Insight**: Non-refundable policies show highest cancellations — policy mismatch?
+🔎 **Insight**: Non-refundable policies show highest cancellations 
 
 ##### D. Room Type Mismatch
 - When reserved ≠ assigned room:
